@@ -1,4 +1,4 @@
-# Rep_Exercicios_JP
+# Rep_Exercicios
 
 
 Repositório pessoal de exercícios de programação.
